@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+}
+header p {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+.iguana1{
+    width: 1280px;
+    margin: auto;
+}
+.descripcion{
+    color: white;
+    text-align: left center;
+    font-family: 'Shantell Sans', cursiva;
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.imagen2{
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    float: right;
+    width: 40%;
+}
+.iconos{
+    background-color: #1e1a13;
+    height: 250px;
+    color: #fff;
+}
+.iconos h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.ojo {
+    display: inline-block;
+    margin-left:500px;
+    margin-top: 85px;
+}
+.ojo i{
+    margin-bottom: 25px;
+    margin-left: 22px;
+}
+.paz {
+    display: inline-block;
+    margin-left: 50px;
+}
+.paz i{
+    margin-bottom: 25px;
+    margin-left: 22px;
+}
+.pincel{
+    display: inline-block;
+    margin-left: 50px;
+}
+.pincel i{
+    margin-bottom: 25px;
+    margin-left: 40px;
+}
+
+
+menu li{
+    display: inline-block;
+}
+ul{
+    margin-left: 130px;
+}
+.imagenesmenu1{
+    margin-top: 200px;
+    width: 400px;
+    margin-left: auto;
+}
+.imagenesmenu2{
+    margin-top: 200px;
+    width: 345px;
+    margin-left: auto;
+}
+.imagenesmenu3{
+    margin-top: 200px;
+    width: 338px;
+    margin-left: auto;
+}
+footer{
+    height: 60px;
+    background-color: #1e1a13;
+    margin-top: 80px;
+}
+footer p{
+    color: white;
+    text-align: center;
+
+}
